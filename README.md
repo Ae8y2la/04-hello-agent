@@ -17,6 +17,8 @@ Talks to Google Gemini (via gemini-2.0-flash)
 
 ## 🎥 Live Demo
 [![DEMO VIDEO](https://img.shields.io/badge/%F0%9F%8E%A5_Watch_Now-9146FF?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1t8XOdAuu6wjMC4iO8VPJ4F_tUg3h1vKR/view?usp=sharing)
+## 🎥 Live Demo
+[![DEMO VIDEO](https://img.shields.io/badge/%F0%9F%8E%A5_Watch_Now-9146FF?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1KzUDLb-O8C0SqPjswyYuWmBl7ge0_KfX/view?usp=sharing)
 
 ## 🙌 Show Some Love
 
