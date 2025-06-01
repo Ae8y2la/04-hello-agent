@@ -1,4 +1,4 @@
-**🚀 Gemini Agent · Google AI x OpenAI API Wrapper**
+## **🚀 Gemini Agent · Google AI x OpenAI API Wrapper**
 
 *This project is a clean, sync-and-async Python wrapper for interacting with Google's Gemini API using an OpenAI-compatible client. Perfect for developers who want Gemini's power with OpenAI's interface style.*
 
