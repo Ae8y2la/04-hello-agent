@@ -22,4 +22,5 @@ Talks to Google Gemini (via gemini-2.0-flash)
 ## 🙌 Show Some Love
 
 ⭐ Found this useful? Smash that star button!
+
 🐞 Something weird happening? “Uhh... this broke 💀” → Open an issue — i got you.
